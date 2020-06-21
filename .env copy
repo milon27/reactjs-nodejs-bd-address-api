@@ -1,0 +1,13 @@
+PORT=2727
+NODE_ENV=production
+
+apiKey=get from your firebase project
+authDomain=get from your firebase project
+databaseURL=get from your firebase project
+projectId=get from your firebase project
+storageBucket=get from your firebase project
+messagingSenderId=get from your firebase project
+appId=get from your firebase project
+
+
+
